@@ -1,0 +1,12 @@
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\bin\Debug\netstandard2.0\Lab4A.deps.json
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\bin\Debug\netstandard2.0\Lab4A.dll
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\bin\Debug\netstandard2.0\Lab4A.pdb
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\obj\Debug\netstandard2.0\Lab4A.csprojAssemblyReference.cache
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\obj\Debug\netstandard2.0\Lab4A.AssemblyInfoInputs.cache
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\obj\Debug\netstandard2.0\Lab4A.AssemblyInfo.cs
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\obj\Debug\netstandard2.0\Lab4A.csproj.CoreCompileInputs.cache
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\obj\Debug\netstandard2.0\Lab4A.dll
+C:\Users\jmotl\RiderProjects\Lab4A\Lab4A\Lab4A\obj\Debug\netstandard2.0\Lab4A.pdb
